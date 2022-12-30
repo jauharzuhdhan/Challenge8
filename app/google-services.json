@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390647847914",
+    "project_id": "challenge8-ad4cb",
+    "storage_bucket": "challenge8-ad4cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390647847914:android:7ede366e327263b272f093",
+        "android_client_info": {
+          "package_name": "com.jauhar.challenge7.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390647847914-unher1dr6pfo6vj8632mtekudadahjvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJ07tZ4ccVLND15T7Ir_hafIW6UNquck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390647847914-unher1dr6pfo6vj8632mtekudadahjvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
